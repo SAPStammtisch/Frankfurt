@@ -29,42 +29,42 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 ### 2021
 _to be added_
 ### 2020
-- 8. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
-- 18. November 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online
-- 7.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
-- 8. Juli 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online ..
-- 6. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
-- 19. Februar (Mittwochs) SAPStammtisch Apfelwein DAX 
-- 22. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
+- 08\. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
+- 18\. November 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online
+- 07\.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
+- 08\. Juli 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online ..
+- 06\. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
+- 19\. Februar (Mittwochs) SAPStammtisch Apfelwein DAX 
+- 22\. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
 ### 2019  - 8 mal Stammtisch (smile) 
-- 04.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
-- 13. November 2019 (Mittwoch)  ***   PLUS-Version des SAPStammtisch Frankfurt
+- 04\.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
+- 13\. November 2019 (Mittwoch)  ***   PLUS-Version des SAPStammtisch Frankfurt
   Vorträge zu: CAP (Leo), AMS (Carola), BPM (Christian D.)
-- 30. Oktober 2019 (Mittwoch) - SAPStammtisch im Apfelwein DAX
-- 4. September 2019 (Mittwoch) - SAPStammtisch im Apfelwein DAX 
-- 19. Juni 2019 (Mittwoch)  - Apfelwein DAX
+- 30\. Oktober 2019 (Mittwoch) - SAPStammtisch im Apfelwein DAX
+- 04\. September 2019 (Mittwoch) - SAPStammtisch im Apfelwein DAX 
+- 19\. Juni 2019 (Mittwoch)  - Apfelwein DAX
 - SAP Inside Track Frankfurt 2019 → see: sitfra.de
   CodeJam Evening Stammtisch Event 29.03. bei den 12 Apostel
   sitFRA evening event: 30.03. im Apfelwein DAX
-- 27. Februar 2019 (Mittwoch) ab 19:00h - SAPStammtisch im Apfelwein DAX 
-- 16. Januar 2019 (Mittwoch) - SAPStammtisch PLUS (plus) bei Reply im Ostend 
+- 27\. Februar 2019 (Mittwoch) ab 19:00h - SAPStammtisch im Apfelwein DAX 
+- 16\. Januar 2019 (Mittwoch) - SAPStammtisch PLUS (plus) bei Reply im Ostend 
 ### 2018  - 11 mal Stammtisch (smile)
-- 19. Dezember 2018 (Mittwoch) - SAPStammtisch goes Weihnachtsmarkt ab 18:00h 
-- 28. November 2018 (Mittwoch) - SAPStammtisch im Eichkatzerl ab 19:00h
-- 19. September SAPStammtisch PLUS (plus) bei REPLY und anschließend im Wirtshaus Ostend
+- 19\. Dezember 2018 (Mittwoch) - SAPStammtisch goes Weihnachtsmarkt ab 18:00h 
+- 28\. November 2018 (Mittwoch) - SAPStammtisch im Eichkatzerl ab 19:00h
+- 19\. September SAPStammtisch PLUS (plus) bei REPLY und anschließend im Wirtshaus Ostend
   Karol Kalisz: Intelligent Enterprise
   Christian Braukmüller: ABAP 7.52 SP1 Developer Edition
   Antonio Del Negro: Erste Erfahrungen mit dem neuen ABAP Programmiermodell
-- 15. August im Apfelwein DAX
-- 18. Juli 2018 im Apfelwein Dax
-- 20. Juni 2018 im ApfelweinDax
-- 16. Mai SAPStammtischPLUS (plus)  bei AOK Systems in Rödelheim (unsere #sitFRA location!)
+- 15\. August im Apfelwein DAX
+- 18\. Juli 2018 im Apfelwein Dax
+- 20\. Juni 2018 im ApfelweinDax
+- 16\. Mai SAPStammtischPLUS (plus)  bei AOK Systems in Rödelheim (unsere #sitFRA location!)
   Tobias Trapp - A Gentle Introduction into Machine Learning for Natural Language Processing
   Robert Euler & Markus Wenzel - UI5 pitfalls & Lessons Learned
-- 18. April im ApfelweinDax
-- 10. März ** SAPInsideTrack Frankfurt 2018  *** Großes Abschlußtreffen (Samstag) 
-- 28. Februar im ApfelweinDax
-- 24. Januar im Apfelwein DAX
+- 18\. April im ApfelweinDax
+- 10\. März ** SAPInsideTrack Frankfurt 2018  *** Großes Abschlußtreffen (Samstag) 
+- 28\. Februar im ApfelweinDax
+- 24\. Januar im Apfelwein DAX
 ### 2017  - 11 mal Stammtisch (smile) und ein ABAP CodeRetreat
 - Dezember 13: Stammtisch Treffen am Frankfurter Weihnachtsmarkt (etwas spontan)
 - November 22: Stammtisch Treffen im Apfelwein DAX
