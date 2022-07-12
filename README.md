@@ -6,7 +6,7 @@ Neues Zuhause unserer Planungsseite
 ## Nächster Termin:  20. Juli (Mi) 2022 ab 19:00h im ApfelweinDax 
 ![](2022-07.jpeg)
 
-|Für die Reservierung vor Ort|
+|Für die Teilnehmeranmeldung:|
 |----------------------------|
 |[Registrierungslink MeetUp](https://meetu.ps/e/LfW0J/txdRl/a)|
 |[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-juli-treffen-2022-4108505)|
