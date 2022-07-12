@@ -2,13 +2,15 @@ Neues Zuhause unserer Planungsseite
 
 # SAP Stammtisch Frankfurt 
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
-## Nächster Termin:  8. Juni (Mi) 2022 ab 19:00h im ApfelweinDax 
-![image](https://user-images.githubusercontent.com/2906185/171919485-456c0d7f-550a-459c-a228-c3b2da7bea00.png)
+
+## Nächster Termin:  20. Juli (Mi) 2022 ab 19:00h im ApfelweinDax 
+![](2022-07.jpeg)
 
 |Für die Reservierung vor Ort|
-|----------------------------|
-|[Registrierungslink MeetUp](https://www.meetup.com/SAP-Stammtisch-Frankfurt/events/286110652)|
-|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-frankfurt-juni-treffen-2022-3973417)|
+|-—————————|
+|[Registrierungslink MeetUp](https://meetu.ps/e/LfW0J/txdRl/a)|
+|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-juli-treffen-2022-4108505)|
+
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -31,7 +33,9 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
-### 2021
+### 2022
+- 8\. Juni (Mittwoch) SAPStammtisch Apfelwein DAX 
+### 2021 
 _to be added_
 ### 2020
 - 08\. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
@@ -39,7 +43,7 @@ _to be added_
 - 07\.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
 - 08\. Juli 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online ..
 - 06\. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
-- 19\. Februar (Mittwochs) SAPStammtisch Apfelwein DAX 
+- 19\. Februar (Mittwoch) SAPStammtisch Apfelwein DAX 
 - 22\. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
 ### 2019  - 8 mal Stammtisch (smile) 
 - 04\.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
