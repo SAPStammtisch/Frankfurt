@@ -4,7 +4,7 @@ Neues Zuhause unserer Planungsseite
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächster Termin:  20. Juli (Mi) 2022 ab 19:00h im ApfelweinDax 
-![](2022-07.jpeg)
+![](https://github.com/CBasis/Frankfurt/blob/patch-3/2022-07.jpeg)
 
 |Für die Reservierung vor Ort|
 |----------------------------|
