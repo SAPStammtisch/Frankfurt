@@ -7,10 +7,9 @@ Neues Zuhause unserer Planungsseite
 ![](2022-07.jpeg)
 
 |Für die Reservierung vor Ort|
-|-—————————|
+|----------------------------|
 |[Registrierungslink MeetUp](https://meetu.ps/e/LfW0J/txdRl/a)|
 |[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-juli-treffen-2022-4108505)|
-
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
