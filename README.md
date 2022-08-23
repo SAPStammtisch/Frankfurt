@@ -4,6 +4,7 @@ Neues Zuhause unserer Planungsseite
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächster Termin:  31. August (Mi) 2022 ab 19:00h im ApfelweinDax 
+![SAP Stammtisch 2022-08](https://user-images.githubusercontent.com/5760151/186187956-72971185-5149-47e4-9518-7bcb87c23f43.jpg)
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
