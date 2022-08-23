@@ -1,5 +1,3 @@
-Neues Zuhause unserer Planungsseite
-
 # SAP Stammtisch Frankfurt 
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
