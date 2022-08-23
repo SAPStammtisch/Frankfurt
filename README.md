@@ -1,9 +1,13 @@
-Neues Zuhause unserer Planungsseite
-
 # SAP Stammtisch Frankfurt 
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
-## Nächster Termin:  8. Juni 2022 ab 19:00h im ApfelweinDax 
-(Registrierungslink folgt)
+
+## Nächster Termin:  31. August (Mi) 2022 ab 19:00h im ApfelweinDax 
+![SAP Stammtisch 2022-08](https://user-images.githubusercontent.com/5760151/186187956-72971185-5149-47e4-9518-7bcb87c23f43.jpg)
+
+|Für die Teilnehmeranmeldung:|
+|----------------------------|
+|[Registrierungslink MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/288002783/)|
+|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-august-treffen-2022-4221813/)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -26,7 +30,10 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
-### 2021
+### 2022
+- 8\. Juni (Mittwoch) SAPStammtisch Apfelwein DAX 
+- 20\. Juli (Mittwoch) SAPStammtisch Apfelwein Dax 
+### 2021 
 _to be added_
 ### 2020
 - 08\. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
@@ -34,7 +41,7 @@ _to be added_
 - 07\.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
 - 08\. Juli 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online ..
 - 06\. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
-- 19\. Februar (Mittwochs) SAPStammtisch Apfelwein DAX 
+- 19\. Februar (Mittwoch) SAPStammtisch Apfelwein DAX 
 - 22\. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
 ### 2019  - 8 mal Stammtisch (smile) 
 - 04\.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
