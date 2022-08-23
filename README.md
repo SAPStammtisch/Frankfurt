@@ -31,8 +31,11 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 ### 2022
-- 8\. Juni (Mittwoch) SAPStammtisch Apfelwein DAX 
+
 - 20\. Juli (Mittwoch) SAPStammtisch Apfelwein Dax 
+- 8\. Juni (Mittwoch) SAPStammtisch Apfelwein DAX 
+=======
+
 ### 2021 
 _to be added_
 ### 2020
