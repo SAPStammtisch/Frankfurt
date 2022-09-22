@@ -1,7 +1,7 @@
 # SAP Stammtisch Frankfurt 
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
-## Nächster Termin:  28. September (Mi) 2022 ab 19:00h im ApfelweinDax 
+## Nächster Termin:  28. September (Mi) 2022 ab 18:00h im ApfelweinDax 
 ![SAP Stammtisch Frankfurt 2022-09](https://user-images.githubusercontent.com/5760151/191361839-0b89de72-73e5-481a-a5ec-2a07fe1ca013.jpg)
 
 |Für die Teilnehmeranmeldung:|
