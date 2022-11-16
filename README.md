@@ -6,8 +6,8 @@
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
-|[Registrierungslink MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/288610183/)|
-|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-september-treffen-2022-4252893)|
+|[Registrierungslink MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/289796997/)|
+|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-goes-weihnachtsmarkt-november-treffen-2022-4301401/)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
