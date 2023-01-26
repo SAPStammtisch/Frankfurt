@@ -1,13 +1,15 @@
 # SAP Stammtisch Frankfurt 
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
-## Nächster Termin:  23. November (Mi) 2022 ab 18:00h auf dem Frankfurter Weihnachtsmarkt 
-![SAP Stammtisch Frankfurt 2022-11](https://user-images.githubusercontent.com/5760151/202299788-021f5188-3fdf-4139-98fc-6e3ee7abad27.jpg)
+## Nächste Termine:  
++ 01\. Februar (Mi) 2023 ab 19:00h im Apfelwein DAX 
++ 01\. März (Mi) 2023 geplant
+
+![SAP Stammtisch 2023-02-01](https://user-images.githubusercontent.com/5760151/214964566-954f215c-1614-4197-baba-5da2f4cbdb8a.jpg)
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
-|[Registrierungslink MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/289796997/)|
-|[Registrierungslink Xing](https://www.xing.com/events/sap-stammtisch-goes-weihnachtsmarkt-november-treffen-2022-4301401/)|
+|[Registrierung via MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/291212743/)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -31,6 +33,7 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 ### 2022
+- 23\. November (Mittwoch) auf dem Frankfurter Weihnachtsmarkt
 - 28\. September (Mittwoch) SAPStammtisch ApfelweinDax 
 - 31\. August (Mittwoch) SAPStammtisch Apfelwein Dax 
 - 20\. Juli (Mittwoch) SAPStammtisch Apfelwein Dax 
