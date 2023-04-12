@@ -3,7 +3,8 @@
 
 ## Nächste Termine:  
 + 19\. April (Mi) 2023 19:00 im Apfelwein DAX
-![SAP Stammtisch Frankfurt 2023-03](https://user-images.githubusercontent.com/5760151/220684901-e3e44136-2ddb-496d-a6b6-e3a815951bc2.jpg)
+![SAP Stammtisch 2023-04 3](https://user-images.githubusercontent.com/5760151/231571846-d54ee8f0-2c40-4b95-ad85-4dfe16c202ea.jpg)
+
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
