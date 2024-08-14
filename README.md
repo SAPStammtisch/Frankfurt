@@ -2,13 +2,13 @@
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächste Termine:  
-+ 19\. April (Mi) 2023 19:00 im Apfelwein DAX
-![SAP Stammtisch 2023-04 3](https://user-images.githubusercontent.com/5760151/231571846-d54ee8f0-2c40-4b95-ad85-4dfe16c202ea.jpg)
++ 28\. August (Mi) 2023 19:00 im Apfelwein DAX
+![SAP Stammtisch 2024-08](https://github.com/user-attachments/assets/3557137e-5d61-46f4-bf55-b4109d5a0b12)
 
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
-|[Registrierung via MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/events/292846307/)|
+|[Registrierung via MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -32,22 +32,38 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 
-### 2023
+### 2024 - 6x bis Juli
+- 28\. August (Mi) SAP Stammtisch - 10th anniversary edition -  Apfelwein DAX
+- 24\. Juli (Mi) SAP Stammtisch Zum Eichkatzerl
+- 26\. Juni (Mi) SAP Stammtisch Apfelwein DAX
+- 29\. Mai (Mi) SAP Stammtisch Apfelwein DAX
+- 17\. April (Mi) SAPStammtisch Apfelwein DAX 
+- 27\. März (Mi) SAPStammtisch Apfelwein DAX
+- 21\. Februar (Mi) SAPStammtisch Apfelwein Dax 
+
+### 2023 - 8 mal Stammtisch (smile)
+- 06\. Dezember (Mi) SAP Stammtisch auf dem Frankfurter Weihnachtsmarkt
+- 22\. November (Mi) SAP Stammtisch Apfelwein DAX
+- 23\. August (Mi) SAP Stammtisch Zum Eichkatzerl
+- 21\. Juni (Mi) SAP Stammtisch Apfelwein DAX
+- 24\. Mai (Mi) SAP Stammtisch Apfelwein DAX
+- 19\. April (Mi) SAPStammtisch Apfelwein DAX 
 - 01\. März (Mi) SAPStammtisch Apfelwein DAX
 - 01\. Februar (Mi) SAPStammtisch Apfelwein Dax 
 
-### 2022
+### 2022 - 5 mal Stammtisch (smile)
 - 23\. November (Mittwoch) auf dem Frankfurter Weihnachtsmarkt
 - 28\. September (Mittwoch) SAPStammtisch ApfelweinDax 
 - 31\. August (Mittwoch) SAPStammtisch Apfelwein Dax 
 - 20\. Juli (Mittwoch) SAPStammtisch Apfelwein Dax 
 - 08\. Juni (Mittwoch) SAPStammtisch Apfelwein DAX 
 
-=======
+### 2021 - 3 mal virtuell 
+- 24\. November 2021 (Mittwoch) ab 20:15h  - vSAPStammtischFRA - Die Weihnachtsmarkt Edition 2021 ✨🎄  .. online
+- 30\. Juni 2021 (Mittwoch) ab 20:15h  - vSAPStammtischFRA - online Sommertreffen 🌞 .. online
+- 11\. März 2021 (Mittwoch) ab 20:15h  - vSAPStammtischFRA - Frühlingstreffen🌼 .. online
 
-### 2021 
-_to be added_
-### 2020
+### 2020 - 2 mal Stammtisch (smile) / 4 mal virtuell / 3 mal virutal Watchparty
 - 08\. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
 - 18\. November 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online
 - 07\.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
@@ -55,7 +71,7 @@ _to be added_
 - 06\. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
 - 19\. Februar (Mittwoch) SAPStammtisch Apfelwein DAX 
 - 22\. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
-### 2019  - 8 mal Stammtisch (smile) 
+### 2019 - 8 mal Stammtisch (smile) 
 - 04\.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
 - 13\. November 2019 (Mittwoch)  ***   PLUS-Version des SAPStammtisch Frankfurt
   Vorträge zu: CAP (Leo), AMS (Carola), BPM (Christian D.)
@@ -67,7 +83,7 @@ _to be added_
   sitFRA evening event: 30.03. im Apfelwein DAX
 - 27\. Februar 2019 (Mittwoch) ab 19:00h - SAPStammtisch im Apfelwein DAX 
 - 16\. Januar 2019 (Mittwoch) - SAPStammtisch PLUS (plus) bei Reply im Ostend 
-### 2018  - 11 mal Stammtisch (smile)
+### 2018 - 11 mal Stammtisch (smile)
 - 19\. Dezember 2018 (Mittwoch) - SAPStammtisch goes Weihnachtsmarkt ab 18:00h 
 - 28\. November 2018 (Mittwoch) - SAPStammtisch im Eichkatzerl ab 19:00h
 - 19\. September SAPStammtisch PLUS (plus) bei REPLY und anschließend im Wirtshaus Ostend
@@ -101,6 +117,7 @@ _to be added_
 - Mittwoch, 14.12.2016 ab 19 Uhr fand der Dezember-Stammtisch im ApfelweinDax statt.
 - Mittwoch, 16.11.2016 ab 19 Uhr fand der November-Stammtisch im ApfelweinDax statt.
 - Mittwoch, 26.10.2016 ab 19 Uhr fand der Oktober-Stammtisch (Anmeldung Xing Event) im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
+- Samstag, 24.09.2016 ABAP CodeRetreat zu Gast bei Reply
 - Mittwoch, 21.09.2016 ab 19 Uhr fand der September-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
 - Mittwoch, 17.08.2016 ab 19 Uhr fand der August-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
 - Mittwoch, 13.07.2016 ab 19 Uhr fand der Juli-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
@@ -124,3 +141,6 @@ _to be added_
 - Mittwoch, 17.12.2014 ab 19 Uhr fand der 3. SAP Stammtisch Frankfurt bei Zum Eichkatzerl / Dreieichstraße 29 / 60594 Frankfurt 
 - Donnerstag, 25.09.2014 ab 19 Uhr fand der 2. SAP Stammtisch Frankfurt bei Schreiber&Heyne / Mörfelder Landstrasse 11 / 60598 Frankfurt (Sachsenhausen)
 - Donnerstag, 12.06.2014 ab 19 Uhr fand der 1. SAP Stammtisch Frankfurt in Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt  statt.
+
+### 2013 - 1 x SAP CodeJam
+- Montag, 09.12.2013 fand der erste SAP CodeJam in Frankfurt statt (initiert und mit-organisiert von Christian Buckowitz)
