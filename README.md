@@ -1,4 +1,5 @@
 # SAP Stammtisch Frankfurt 
+![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächste Termine:  
 + 28\. August (Mi) 2023 19:00 im Apfelwein DAX
