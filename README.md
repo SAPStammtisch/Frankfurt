@@ -2,13 +2,14 @@
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächste Termine:  
-+ 28\. August (Mi) 2023 19:00 im Apfelwein DAX
-![SAP Stammtisch 2024-08](https://github.com/user-attachments/assets/3557137e-5d61-46f4-bf55-b4109d5a0b12)
++ 30\. September (Mi) 2026 19:00 im Apfelwein DAX
+<img width="1195" height="896" alt="SAP Stammtisch Frankfurt 2026-09" src="https://github.com/user-attachments/assets/1a84f251-e8a0-4497-9805-8b5108be7a19" />
+
 
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
-|[Registrierung via MeetUp](https://www.meetup.com/de-DE/sap-stammtisch-frankfurt/)|
+|[Registrierung via openMeet](https://platform.openmeet.net/events/100-sap-stammtisch-frankfurt-iudj-e)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -31,6 +32,10 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
+
+### 2026 ###
+
+### 2025 ###
 
 ### 2024 - 6x bis Juli
 - 28\. August (Mi) SAP Stammtisch - 10th anniversary edition -  Apfelwein DAX
