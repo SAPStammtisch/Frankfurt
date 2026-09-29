@@ -33,11 +33,42 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 
-### 2026 ###
+### 2026 - 6 mal Stammtisch (smile) bis Juli
+- 29\. Juli (Mi) SAP Stammtisch Apfelwein DAX - Sommer Edition im Biergarten
+- 10\. Juni (Mi) SAP Stammtisch Apfelwein DAX - goes Biergarten
+- 29\. April (Mi) SAP Stammtisch Apfelwein DAX
+- 25\. März (Mi) SAP Stammtisch Apfelwein DAX
+- 11\. Februar (Mi) SAPStammtisch PLUS (plus) bei der DZ BANK im Westend Tower
+  Cüneyt Aksoy: One Project. One System.
+  Leo van Hengel: Neptune DXP & SAP BTP – Combine & Shine
+  Hendrik Neumann: The MCP'fication of SAP
+- 21\. Januar (Mi) SAP Stammtisch Apfelwein DAX
 
-### 2025 ###
+### 2025 - 13 mal Stammtisch (smile)
+- 17\. Dezember (Mi) SAP Stammtisch goes Weihnachtsmarkt Frankfurt (Römerberg)
+- 26\. November (Mi) SAP Stammtisch Apfelwein DAX
+- 22\. Oktober (Mi) SAPStammtisch PLUS (plus) bei AOK Systems im Westend
+  Tobias Trapp: Core washing
+  Frank Engert: SaaS mit ABAP Cloud
+  Christian Braukmüller: Behind the Scenes der Evonik Kunden-Keynote auf dem DSAG-Jahreskongress
+- 24\. September (Mi) SAP Stammtisch Apfelweinwirtschaft Dauth-Schneider
+- 27\. August (Mi) SAP Stammtisch Apfelwein DAX
+- 30\. Juli (Mi) SAP Stammtisch Apfelwein DAX
+- 25\. Juni (Mi) SAP Stammtisch Apfelwein DAX
+- 28\. Mai (Mi) SAP Stammtisch Apfelwein DAX
+- 23\. April (Mi) SAP Stammtisch Apfelwein DAX
+- 01\. April (Di) SAP Stammtisch Wiesbaden - DSAG Technologietage Edition im BrewDog Wiesbaden
+- 26\. März (Mi) SAP Stammtisch Zum Eichkatzerl
+- 26\. Februar (Mi) SAPStammtisch PLUS (plus) bei Reply im Ostend
+  Peter Keiner: Was ist Clean?
+  Mike Zaschka: Was ist Cloud?
+  Podiumsdiskussion: Clean und Cloud in der SAP Welt
+- 22\. Januar (Mi) SAP Stammtisch Apfelwein DAX
 
-### 2024 - 6x bis Juli
+### 2024 - 10 mal Stammtisch (smile)
+- 18\. Dezember (Mi) SAP Stammtisch goes Weihnachtsmarkt Frankfurt (Römerberg)
+- 23\. Oktober (Mi) SAP Stammtisch Zum Eichkatzerl
+- 25\. September (Mi) SAP Stammtisch Fichtekränzi - neue Location
 - 28\. August (Mi) SAP Stammtisch - 10th anniversary edition -  Apfelwein DAX
 - 24\. Juli (Mi) SAP Stammtisch Zum Eichkatzerl
 - 26\. Juni (Mi) SAP Stammtisch Apfelwein DAX
