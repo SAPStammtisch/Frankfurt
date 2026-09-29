@@ -33,7 +33,8 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 
-### 2026 - 6 mal Stammtisch (smile) bis Juli
+### 2026 - 7 mal Stammtisch (smile) bis August
+- 26\. August (Mi) SAP Stammtisch Apfelwein DAX - der 99. SAP Stammtisch Frankfurt
 - 29\. Juli (Mi) SAP Stammtisch Apfelwein DAX - Sommer Edition im Biergarten
 - 10\. Juni (Mi) SAP Stammtisch Apfelwein DAX - goes Biergarten
 - 29\. April (Mi) SAP Stammtisch Apfelwein DAX
