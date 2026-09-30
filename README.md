@@ -33,7 +33,7 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 
-### 2026 - 7 mal Stammtisch 😉 bis August
+### 2026 - 7 mal Stammtisch 😊 bis August
 - 26\. August (Mi) SAP Stammtisch Apfelwein DAX - der 99. SAP Stammtisch Frankfurt
 - 29\. Juli (Mi) SAP Stammtisch Apfelwein DAX - Sommer Edition im Biergarten
 - 10\. Juni (Mi) SAP Stammtisch Apfelwein DAX - goes Biergarten
@@ -45,7 +45,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
   Hendrik Neumann: The MCP'fication of SAP
 - 21\. Januar (Mi) SAP Stammtisch Apfelwein DAX
 
-### 2025 - 13 mal Stammtisch 😉
+### 2025 - 13 mal Stammtisch 😊
 - 17\. Dezember (Mi) SAP Stammtisch goes Weihnachtsmarkt Frankfurt (Römerberg)
 - 26\. November (Mi) SAP Stammtisch Apfelwein DAX
 - 22\. Oktober (Mi) SAPStammtisch PLUS (plus) bei AOK Systems im Westend
@@ -66,7 +66,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
   Podiumsdiskussion: Clean und Cloud in der SAP Welt
 - 22\. Januar (Mi) SAP Stammtisch Apfelwein DAX
 
-### 2024 - 10 mal Stammtisch 😉
+### 2024 - 10 mal Stammtisch 😊
 - 18\. Dezember (Mi) SAP Stammtisch goes Weihnachtsmarkt Frankfurt (Römerberg)
 - 23\. Oktober (Mi) SAP Stammtisch Zum Eichkatzerl
 - 25\. September (Mi) SAP Stammtisch Fichtekränzi - neue Location
@@ -78,7 +78,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - 27\. März (Mi) SAPStammtisch Apfelwein DAX
 - 21\. Februar (Mi) SAPStammtisch Apfelwein Dax 
 
-### 2023 - 8 mal Stammtisch 😉
+### 2023 - 8 mal Stammtisch 😊
 - 06\. Dezember (Mi) SAP Stammtisch auf dem Frankfurter Weihnachtsmarkt
 - 22\. November (Mi) SAP Stammtisch Apfelwein DAX
 - 23\. August (Mi) SAP Stammtisch Zum Eichkatzerl
@@ -88,7 +88,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - 01\. März (Mi) SAPStammtisch Apfelwein DAX
 - 01\. Februar (Mi) SAPStammtisch Apfelwein Dax 
 
-### 2022 - 5 mal Stammtisch 😉
+### 2022 - 5 mal Stammtisch 😊
 - 23\. November (Mittwoch) auf dem Frankfurter Weihnachtsmarkt
 - 28\. September (Mittwoch) SAPStammtisch ApfelweinDax 
 - 31\. August (Mittwoch) SAPStammtisch Apfelwein Dax 
@@ -100,7 +100,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - 30\. Juni 2021 (Mittwoch) ab 20:15h  - vSAPStammtischFRA - online Sommertreffen 🌞 .. online
 - 11\. März 2021 (Mittwoch) ab 20:15h  - vSAPStammtischFRA - Frühlingstreffen🌼 .. online
 
-### 2020 - 2 mal Stammtisch 😉 / 4 mal virtuell / 3 mal virutal Watchparty
+### 2020 - 2 mal Stammtisch 😊 / 4 mal virtuell / 3 mal virutal Watchparty
 - 08\. & 9. & 10. Dezember jeweils 15:45h - 18:30h: vSAPStammtisch Watchparty SAPTechEdKeynote  
 - 18\. November 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online
 - 07\.Oktober 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. online 
@@ -108,7 +108,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - 06\. Mai 2020 (Mittwoch) ab 20:15h  - vSAPStammtischFRA .. erstmals online 
 - 19\. Februar (Mittwoch) SAPStammtisch Apfelwein DAX 
 - 22\. Januar (Mittwoch) SAPStammtisch im Apfelwein DAX 
-### 2019 - 8 mal Stammtisch 😉 
+### 2019 - 8 mal Stammtisch 😊 
 - 04\.Dezember (Mittwoch) SAPStammtisch goes Weihnachtsmarkt Frankfurt
 - 13\. November 2019 (Mittwoch)  ***   PLUS-Version des SAPStammtisch Frankfurt
   Vorträge zu: CAP (Leo), AMS (Carola), BPM (Christian D.)
@@ -120,7 +120,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
   sitFRA evening event: 30.03. im Apfelwein DAX
 - 27\. Februar 2019 (Mittwoch) ab 19:00h - SAPStammtisch im Apfelwein DAX 
 - 16\. Januar 2019 (Mittwoch) - SAPStammtisch PLUS (plus) bei Reply im Ostend 
-### 2018 - 11 mal Stammtisch 😉
+### 2018 - 11 mal Stammtisch 😊
 - 19\. Dezember 2018 (Mittwoch) - SAPStammtisch goes Weihnachtsmarkt ab 18:00h 
 - 28\. November 2018 (Mittwoch) - SAPStammtisch im Eichkatzerl ab 19:00h
 - 19\. September SAPStammtisch PLUS (plus) bei REPLY und anschließend im Wirtshaus Ostend
@@ -137,7 +137,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - 10\. März ** SAPInsideTrack Frankfurt 2018  *** Großes Abschlußtreffen (Samstag) 
 - 28\. Februar im ApfelweinDax
 - 24\. Januar im Apfelwein DAX
-### 2017  - 11 mal Stammtisch 😉 und ein ABAP CodeRetreat
+### 2017  - 11 mal Stammtisch 😊 und ein ABAP CodeRetreat
 - Dezember 13: Stammtisch Treffen am Frankfurter Weihnachtsmarkt (etwas spontan)
 - November 22: Stammtisch Treffen im Apfelwein DAX
 - Oktober 21: ABAP CodeRetreat von 9-17 Uhr
@@ -150,7 +150,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - März: SpecialStammtisch #sitFRA Edition - "BackToTheRoots"-Abend
 - Februar: Mittwoch, 22.2.2017
 - Januar: Mittwoch, 18.1.2017
-### 2016 - 12 x Stammtisch 😉
+### 2016 - 12 x Stammtisch 😊
 - Mittwoch, 14.12.2016 ab 19 Uhr fand der Dezember-Stammtisch im ApfelweinDax statt.
 - Mittwoch, 16.11.2016 ab 19 Uhr fand der November-Stammtisch im ApfelweinDax statt.
 - Mittwoch, 26.10.2016 ab 19 Uhr fand der Oktober-Stammtisch (Anmeldung Xing Event) im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
@@ -164,7 +164,7 @@ Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 - Mittwoch, 09.03.2016 ab 19 Uhr fand der März-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
 - Mittwoch, 10.02.2016 ab 19 Uhr fand der Februar-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
 - Mittwoch, 20.01.2016 ab 19 Uhr fand der Januar-Stammtisch im Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt
-### 2015 - 9 x Stammtisch 😉
+### 2015 - 9 x Stammtisch 😊
 - Mittwoch, 09.12.2015 ab 19 Uhr fand der Weihnachtsstammtisch im Dauth Schneider / Neuer Wall 5 / 60594 Frankfurt statt (Der 8.Stammtisch in 2015)
 - Mittwoch, 04.11.2015 ab 19 Uhr fand der Pre-SAPTechEd-SonderStammtisch im  Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt (SonderStammtisch 2015)
 - Mittwoch, 21.10.2015 ab 19 Uhr fand der 10. SAP Stammtisch Frankfurt im  Apfelwein DAX  / Willemerstraße 11 / 60594 Frankfurt statt (Der 7.Stammtisch in 2015)
