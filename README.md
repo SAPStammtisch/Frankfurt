@@ -7,6 +7,8 @@
   Alexander Reincke: J4D – wie wir es schafften, es nicht zu testen!
   Christian Braukmüller, Leo van Hengel & Hendrik Neumann: SAP TechEd Recap – our personal Highlights!
 
+<img alt="Frankfurter Bembel mit der Aufschrift SAP Stammtisch Frankfurt nachts am Main, aus dem bunte Pluszeichen in eine leuchtende Glühbirne aufsteigen, daneben die Zahl 101 in goldenen Funken vor der Frankfurter Skyline" src="SAP%20Stammtisch%20101%20-%202026-11.jpeg" />
+
 Gastgeber ist Basti Meissner. Die Location liegt wenige Minuten zu Fuß von der S-Bahn-Haltestelle Taunusanlage. Die Parkhäuser Opernturm, Trianon und Westend sind sechs bis zehn Minuten zu Fuß entfernt. Nach den Vorträgen gehen wir gemeinsam zum Abendessen.
 
 |Für die Teilnehmeranmeldung:|
