@@ -2,14 +2,18 @@
 ![image](https://user-images.githubusercontent.com/2906185/169572009-3beb0ce0-e0c7-41e8-8b81-54f62cea7f5e.png)
 
 ## Nächste Termine:  
-+ 30\. September (Mi) 2026 19:00 im Apfelwein DAX
-<img width="1195" height="896" alt="SAP Stammtisch Frankfurt 2026-09" src="https://github.com/user-attachments/assets/1a84f251-e8a0-4497-9805-8b5108be7a19" />
++ 18\. November (Mi) 2026 18:30 (Vorträge ab 19:00) – 101. SAP Stammtisch Frankfurt als SAPStammtisch PLUS bei WeWork, Taunusanlage 8
+  Winfried Winterstein: Ein Tag im Leben eines SAP Enterprise Architekten
+  Alexander Reincke: J4D – wie wir es schafften, es nicht zu testen!
+  Christian Braukmüller, Leo van Hengel & Hendrik Neumann: SAP TechEd Recap – our personal Highlights!
 
+<img alt="Frankfurter Bembel mit der Aufschrift SAP Stammtisch Frankfurt nachts am Main, aus dem bunte Pluszeichen in eine leuchtende Glühbirne aufsteigen, daneben die Zahl 101 in goldenen Funken vor der Frankfurter Skyline" src="SAP%20Stammtisch%20101%20-%202026-11.jpeg" />
 
+Gastgeber ist Basti Meissner. Die Location liegt wenige Minuten zu Fuß von der S-Bahn-Haltestelle Taunusanlage. Die Parkhäuser Opernturm, Trianon und Westend sind sechs bis zehn Minuten zu Fuß entfernt. Nach den Vorträgen gehen wir gemeinsam zum Abendessen.
 
 |Für die Teilnehmeranmeldung:|
 |----------------------------|
-|[Registrierung via openMeet](https://platform.openmeet.net/events/100-sap-stammtisch-frankfurt-iudj-e)|
+|[Registrierung via openMeet](https://platform.openmeet.net/events/sap-stammtisch-202609-plus-vortrage-irmmcw)|
 
 ## Monatliches Treffen der Rhein-Main SAP Community in Frankfurt
 Unsere Stammkneipe ist der Apfelwein DAX. Hier treffen wir uns seit 2014 einmal im Monat und tauschen uns über SAP, die Arbeit und alles andere im Leben aus.
@@ -33,7 +37,8 @@ Da im Apfelwein DAX die Nutzung eines Beamers für die anderen Gäste irritieren
 ## Historie
 Hier sammeln wir die Termine und Erinnerungen vergangener Treffen
 
-### 2026 - 7 mal Stammtisch 😊 bis August
+### 2026 - 8 mal Stammtisch 😊 bis September
+- 30\. September (Mi) SAP Stammtisch Apfelwein DAX - der 100. SAP Stammtisch Frankfurt
 - 26\. August (Mi) SAP Stammtisch Apfelwein DAX - der 99. SAP Stammtisch Frankfurt
 - 29\. Juli (Mi) SAP Stammtisch Apfelwein DAX - Sommer Edition im Biergarten
 - 10\. Juni (Mi) SAP Stammtisch Apfelwein DAX - goes Biergarten
